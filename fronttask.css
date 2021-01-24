@@ -169,7 +169,7 @@ img{
     left: 0;
 }
 /************************************************************/
-@media(max-width:576px){
+@media(max-width:540px){
     .f-swiper{
      position: relative;   
      background-size: contain;
